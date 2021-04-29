@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Roboto', sans-serif;
+}
+
+li {
+    font-size: 18px;
+    margin: 3px 0;
+}
+
+ul {
+    display: inline-block;
+}
+
+.color-red {
+    color: red;
+}
+
+.color-blue {
+    color: blue;
+}
+
+.color-green {
+    color: green;
+}
